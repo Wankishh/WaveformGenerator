@@ -1,0 +1,1 @@
+[silencedetect @ 0x7fa7edd0c160] silence_start: 1.84
